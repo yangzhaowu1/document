@@ -19,6 +19,7 @@ $ ls -a 列出全部文件，包含隐藏文件
 $ ls -R 连同子目录的内容一起列出（递归列出），等于该目录下的所有文件都会显示出来  
 $ ls [0-9] 显示包含数字的文件名和目录名
 ```
+![我的头像](https://https://github.com/yangzhaowu1/document/picture/rcpPacket.png)
 
 ## 4. cp
 ```
